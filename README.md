@@ -16,6 +16,8 @@
 
 ```bash
   npm run format
+  # or
+  yarn format
 ```
 
 or if you don't have npm installed
