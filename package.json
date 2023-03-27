@@ -1,0 +1,9 @@
+{
+  "name": "tagging-plan",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "format": "node index.js"
+  }
+}
